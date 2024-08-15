@@ -31,13 +31,6 @@ To build the project using Visual Studio:
 1. Open the solution file (`SitecorePreInterviewTasks.sln`) in Visual Studio.
 2. Right-click on the solution in the Solution Explorer and select "Build Solution".
 
-### Running the Application
-
-To run the application using .NET CLI, navigate to the SitecorePreInterviewTasks directory and execute:
-To run the application using Visual Studio:
-1. Set the `SitecorePreInterviewTasks` project as the startup project.
-2. Press F5 or click on the "Start Debugging" button.
-
 ### Running Unit Tests
 
 To run the unit tests using .NET CLI, navigate to the SitecorePreInterviewTasks.UnitTests directory and execute:
