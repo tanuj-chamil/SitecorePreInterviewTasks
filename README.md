@@ -33,6 +33,8 @@ To build the project using Visual Studio:
 ### Running Unit Tests
 
 To run the unit tests using .NET CLI, navigate to the SitecorePreInterviewTasks.UnitTests directory and execute:
+```dotnet test```
+
 To run the unit tests using Visual Studio:
 1. Open the Test Explorer window (`Test` > `Windows` > `Test Explorer`).
 2. Click on the "Run All Tests" button.
