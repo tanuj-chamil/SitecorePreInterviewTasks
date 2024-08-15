@@ -6,7 +6,6 @@ namespace SitecorePreInterviewTasks.UnitTests.Task02
     public class PalindromeTests
     {
         [TestMethod]
-
         public void checkPalindrome_WhenInputStringIsPalindrome_ReturnsTrue()
         {
             // Arrange
