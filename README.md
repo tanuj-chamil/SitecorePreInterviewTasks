@@ -12,7 +12,6 @@ This repository contains the source code and unit tests for the Sitecore Pre-Int
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Building the Project](#building-the-project)
-  - [Running the Application](#running-the-application)
   - [Running Unit Tests](#running-unit-tests)
   - [Dependencies](#dependencies)
 
