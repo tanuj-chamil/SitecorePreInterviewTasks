@@ -26,6 +26,9 @@ This repository contains the source code and unit tests for the Sitecore Pre-Int
 ### Building the Project
 
 To build the project using .NET CLI, navigate to the root directory and run:
+
+```dotnet build```
+
 To build the project using Visual Studio:
 1. Open the solution file (`SitecorePreInterviewTasks.sln`) in Visual Studio.
 2. Right-click on the solution in the Solution Explorer and select "Build Solution".
@@ -33,6 +36,7 @@ To build the project using Visual Studio:
 ### Running Unit Tests
 
 To run the unit tests using .NET CLI, navigate to the SitecorePreInterviewTasks.UnitTests directory and execute:
+
 ```dotnet test```
 
 To run the unit tests using Visual Studio:
